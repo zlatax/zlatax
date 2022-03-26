@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zlatax
-- 👀 I’m interested in 
+<!-- - 👀 I’m interested in  -->
 - 🌱 I’m currently learning React-js and Solidity
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: email -> keigonagai@gmail.com
 
 <!---
