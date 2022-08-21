@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zlatax
 <!-- - 👀 I’m interested in  -->
-- 🌱 I’m currently learning React-js and Solidity
+- 🌱 I’m currently learning ReactJS along with TailwindCSS
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: email -> keigonagai@gmail.com
 
